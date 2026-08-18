@@ -1,12 +1,16 @@
-# MYSQL-Assignment-1
+# MYSQL-Assignment-1,2
 The assignment is about the company requires an Employee Database to store and manage information in an organization using MYSQL DDL commands with specified constraints.
+With the existing employee database the tables are updated for data insertion,querying and filtering using DML commands
 MYSQL-DDL Commands and Constraints
+DML Insertion -Querying Data
 We are required to design and manage Employee Database using MY SQL. which contains information about employees as three tables.Employees,departments and Locations within Organization.The database is managed using MYSQL DDL Commands and Constraints for Data integrity and consistency.
+Values are inserted into three tables like employees details with their locations with respective departments.
 
 
 ## Description
 
 The Database contains information about employees as three tables.Employees,departments and Locations within Organization.The database is managed using MYSQL DDL Commands and Constraints for Data integrity and consistency.Each table has attributes and their data types are specified.Table is created and recreated according to their constraints.
+With updation of values to existing database,sorting and grouping data is performed using sql DML commands.Joins and Windows function is also performed for and consistency.
 
 ## Getting Started
 
